@@ -9,5 +9,5 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/android-video-str
 
 **Screenshot**
 
-![Android Video Streaming VideoView Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2013/03/VideoStreamTutorial.png)
+![Android Video Streaming VideoView Tutorial ScreenShot](http://www.androidbegin.com/wp-content/uploads/2013/03/VideoStreamTutorial-ScreenShots.png)
 
